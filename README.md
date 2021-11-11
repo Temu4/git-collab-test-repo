@@ -13,3 +13,5 @@ A-level: GIT test repository
 Зеленый
 
 - I like to play in volleyball.
+
+- I work with music a lot too.
