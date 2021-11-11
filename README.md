@@ -12,6 +12,6 @@ A-level: GIT test repository
 
 Зеленый
 
-Персик
+Orange
 
 - I like to play in volleyball.
